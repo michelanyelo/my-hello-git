@@ -8,5 +8,6 @@
 # git commit -m "mensaje con los cambios hechos"
 # git checkout "archivo.py" regresar a una version anterior
 # git config --global alias.historial "log --graph --decorate --all --oneline" Alias historial añadido al archivo global
+# git diff Muestra los cambios de los ficheros sin tomar una fotografia
 
-print("New Hello Git!")
+print("New Hello Git! with changes")
