@@ -7,5 +7,6 @@
 # git add "archivo.py" agregar a la cola
 # git commit -m "mensaje con los cambios hechos"
 # git checkout "archivo.py" regresar a una version anterior
+# git config --global alias.historial "log --graph --decorate --all --oneline" Alias historial añadido al archivo global
 
 print("New Hello Git!")
