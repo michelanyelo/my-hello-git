@@ -11,4 +11,7 @@
 # git diff Muestra los cambios de los ficheros sin tomar una fotografia
 # git reflog Muestra todo el historial de cambios
 # git reset --hard "hash o alias" regresar al primer cambio y tambien al ultimo
+# git branch "nombre" crear una instancia de rama
+# git switch "cabecera (main o nombre del branch)" cambiar puntero de cabecera
+# git merge "nombre de cabecera (puede ser main o nombre del branch)" Sirve para combinar los cambios de dos ramas
 print("New Hello Git! with changes")
