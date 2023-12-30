@@ -17,5 +17,5 @@
 # gir push Sube a github los cambios realizados en el local
 # git fetch Descargará el contenido remoto sin modificar el estado del repositorio local
 # git pull Descargará el contenido remoto con los cambios al local
-
+# git clone "ssh" "nombre carpeta" Descarga el proyecto a la ubicacion mencionada
 print("New Hello Git! with changes")
