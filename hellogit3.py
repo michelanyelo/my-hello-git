@@ -1,1 +1,1 @@
-print("Main git 3 v2")
+print("Main git 3 GIT PC")
