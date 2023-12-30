@@ -14,5 +14,7 @@
 # git branch "nombre" crear una instancia de rama
 # git switch "cabecera (main o nombre del branch)" cambiar puntero de cabecera
 # git merge "nombre de cabecera (puede ser main o nombre del branch)" Une las ramas independientes al main
-# 
+# git fetch Descargará el contenido remoto sin modificar el estado del repositorio local
+# git pull Descargará el contenido remoto con los cambios al local
+
 print("New Hello Git! with changes")
